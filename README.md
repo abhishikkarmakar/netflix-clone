@@ -1,6 +1,6 @@
 ## Netflix Clone
 
-It is a netflix clone project built using react. React hooks useEffect and useState are used in the project. The data is displayed from [Tmdb](https://www.themoviedb.org/) using its API. Trailers are also displayed from youtube on clicking any movie. To check the deployed version visit [link](https://netflix-clone-79589.web.app).
+It is a netflix clone project built using react. React hooks useEffect and useState are used in the project. The data is displayed from [Tmdb](https://www.themoviedb.org/) using its API. Trailers are also displayed from youtube on clicking any movie. 
 
 ## How to Use
 

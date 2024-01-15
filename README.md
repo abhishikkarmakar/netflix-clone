@@ -10,8 +10,3 @@ It is a netflix clone project built using react. React hooks useEffect and useSt
 - Get your API key from tmdb movies and place it in the src/requests.js file
 - Run command **npm start** to start the application in development mode.
 
-## Screenshots
-
-![Netflix Home Screen](https://github.com/AnumMujahid/netflix-clone/blob/master/n1.png)
-
-*Screenshot 1: Netflix Clone*
